@@ -10,7 +10,6 @@ Gem::Specification.new do |s|
   s.name              = 'sage_pay'
   s.version           = SagePay::VERSION
   s.date              = '2012-07-21'
-  s.rubyforge_project = 'sage_pay'
 
   s.summary     = "Ruby implementation of the SagePay payment gateway protocol."
   s.description = <<-DESCRIPTION
